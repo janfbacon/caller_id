@@ -1,0 +1,7 @@
+{
+  "blueprint": "container_fargate",
+  "stack_name": "autodeploy-caller-id-dev",
+  "last_deploy_id": "f0f45d3640c2",
+  "last_url": "http://caller-id-dev-alb-1526410179.us-east-1.elb.amazonaws.com",
+  "last_success_timestamp": "2026-03-10T19:23:50.983907+00:00"
+}
